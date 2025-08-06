@@ -1,7 +1,8 @@
 # GR-Scripts
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+I'm+GR;Lua+Developer;Script+Creator;Always+Coding!" alt="Typing SVG" />
+  <img src="ht| Repository | ⭐ Stars | 🍴 Forks |
+|------------|----------|----------|s://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+I'm+GR;Lua+Developer;Script+Creator;Always+Coding!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
@@ -21,16 +22,13 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
 <div align="center">
 
-**🎮 FiveM Specialist** • **📱 NUI Developer** • **🔧 QBCore Expert** • **💻 Full-Stack Creator**
+**🎮 FiveM ** • **📱 NUI ** • **🔧 QBCore ** 
 
 </div>
 
@@ -53,13 +51,13 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 
 <div align="center">
 
-| Repository | ⭐ Stars | � Downloads | 🍴 Forks |
-|------------|----------|-------------|----------|
-| **[RxScripts-items](https://github.com/GR-Scripts-25/RxScripts-items)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/RxScripts-items?style=social) | ![GitHub all releases](https://img.shields.io/github/downloads/GR-Scripts-25/RxScripts-items/total?color=success) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/RxScripts-items?style=social) |
-| **[GR-ShellSpawner](https://github.com/GR-Scripts-25/GR-ShellSpawner)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/GR-ShellSpawner?style=social) | ![GitHub all releases](https://img.shields.io/github/downloads/GR-Scripts-25/GR-ShellSpawner/total?color=success) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/GR-ShellSpawner?style=social) |
-| **[cdn-fuel](https://github.com/GR-Scripts-25/cdn-fuel)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/cdn-fuel?style=social) | ![GitHub all releases](https://img.shields.io/github/downloads/GR-Scripts-25/cdn-fuel/total?color=success) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/cdn-fuel?style=social) |
-| **[GR-Fly](https://github.com/GR-Scripts-25/GR-Fly)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/GR-Fly?style=social) | ![GitHub all releases](https://img.shields.io/github/downloads/GR-Scripts-25/GR-Fly/total?color=success) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/GR-Fly?style=social) |
-| **[fmLib](https://github.com/GR-Scripts-25/fmLib)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/fmLib?style=social) | ![GitHub all releases](https://img.shields.io/github/downloads/GR-Scripts-25/fmLib/total?color=success) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/fmLib?style=social) |
+| Repository                                                              | ⭐ Stars                                                                                        | � Downloads                                                                                                       | 🍴 Forks                                                                                        |
+| ----------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| **[RxScripts-items](https://github.com/GR-Scripts-25/RxScripts-items)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/RxScripts-items?style=social) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/RxScripts-items?style=social) |
+| **[GR-ShellSpawner](https://github.com/GR-Scripts-25/GR-ShellSpawner)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/GR-ShellSpawner?style=social) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/GR-ShellSpawner?style=social) |
+| **[cdn-fuel](https://github.com/GR-Scripts-25/cdn-fuel)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/cdn-fuel?style=social) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/cdn-fuel?style=social) |
+| **[GR-Fly](https://github.com/GR-Scripts-25/GR-Fly)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/GR-Fly?style=social) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/GR-Fly?style=social) |
+| **[fmLib](https://github.com/GR-Scripts-25/fmLib)** | ![GitHub stars](https://img.shields.io/github/stars/GR-Scripts-25/fmLib?style=social) | ![GitHub forks](https://img.shields.io/github/forks/GR-Scripts-25/fmLib?style=social) |
 
 </div>
 
@@ -67,7 +65,6 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 
 <div align="center">
 
-![Total Downloads](https://img.shields.io/badge/Total%20Downloads-0+-brightgreen?style=for-the-badge&logo=download&logoColor=white)
 ![Total Stars](https://img.shields.io/badge/Total%20Stars-1+-yellow?style=for-the-badge&logo=star&logoColor=white)
 ![Repositories](https://img.shields.io/badge/Repositories-7-blue?style=for-the-badge&logo=github&logoColor=white)
 
@@ -85,7 +82,7 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 ## 🎯 Current Focus
 
 - 🔨 **Developing** new QBCore resources
-- 🌟 **Contributing** to open-source FiveM projects  
+- 🌟 **Contributing** to open-source FiveM projects
 - 📖 **Learning** advanced web development for NUI
 - 🤝 **Collaborating** with the FiveM community
 
