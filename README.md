@@ -25,11 +25,6 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 
 </div>
 
-<div align="center">
-
-**🎮 FiveM ** • **📱 NUI ** • **🔧 QBCore ** 
-
-</div>
 
 ## 📊 GitHub Stats
 
