@@ -42,7 +42,11 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=GR-Scripts-25&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=GR-Scripts-25&theme=radical&hide_border=false" alt="GitHub Streak Stats" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GR-Scripts-25&theme=redical&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ## � Repository Stats
@@ -74,7 +78,7 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GR-Scripts-25)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/y6zJRUEhkT)
+[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/your-discord)
 
 </div>
 
@@ -87,7 +91,7 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 
 ## 💡 Fun Facts
 
-- 🎮 Started with FiveM development in 2021
+- 🎮 Started with FiveM development in 2024
 - 🚀 Love creating immersive roleplay experiences
 - 🔧 Always experimenting with new scripting techniques
 - 🌟 Believe in sharing knowledge with the community
