@@ -99,5 +99,11 @@ I'm a passionate **FiveM developer** specializing in creating innovative scripts
 </div>
 
 <div align="center">
-  <img src="https://github.com/GR-Scripts-25/GR-Scripts-25/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  
+---
+
+### 💫 **"Code is poetry written in logic"**
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Feel+free+to+explore+my+repositories;Don't+forget+to+star+if+you+like+them!;Happy+coding!+🚀" alt="Outro Typing SVG" />
+
 </div>
