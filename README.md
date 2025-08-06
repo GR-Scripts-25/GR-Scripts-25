@@ -1,2 +1,1 @@
-
-[city_lights]: https://github-readme-stats.vercel.app/api?GR-Scripts=anuraghazra&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=city_lights
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GR-Scripts-25&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
