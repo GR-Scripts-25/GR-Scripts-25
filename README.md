@@ -1,8 +1,7 @@
 # GR-Scripts
 
 <div align="center">
-  <img src="ht| Repository | ⭐ Stars | 🍴 Forks |
-|------------|----------|----------|s://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+I'm+GR;Lua+Developer;Script+Creator;Always+Coding!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Hi+I'm+GR;Lua+Developer;Script+Creator;Always+Coding!" alt="Typing SVG" />
 </div>
 
 ## 🚀 About Me
